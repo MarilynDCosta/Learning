@@ -1,5 +1,5 @@
 # W3Schools - Python
-# Section 9: Strings
+# Section 10: Booleans
 
 
 # Booleans represent one of two values: True or False.
