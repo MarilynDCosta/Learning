@@ -1,5 +1,5 @@
 # W3Schools - Python
-# Section 13 Tuples
+# Section 13: Tuples
 
 
 # PYTHON TUPLES
@@ -11,8 +11,8 @@ flowers = ("Lily", "Rose", "Peony")
 print(flowers) # ("Lily", "Rose", "Peony")
 
 # Tuple items...
-#   1. Are Ordered -> All items have a defined order that will not change
-#   2. Unchangeable -> Items cannot be changed, added or removed after a tuple has been created.
+#   1. Are Ordered      -> All items have a defined order that will not change
+#   2. Unchangeable     -> Items cannot be changed, added or removed after a tuple has been created.
 #   3. Allow Duplicates -> As tuples are indexed, they can have items with the same value.
 flowers2 = ("Lily", "Rose", "Peony", "Lily")
 print(flowers2)
