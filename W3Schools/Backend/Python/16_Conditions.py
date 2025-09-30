@@ -2,8 +2,6 @@
 # Section 16: Conditions and If Statements
 
 
-# PYTHON DICTIONARIES
-
 # Python supports the usual logical conditions from mathematics.
 # -> Equals                     ==
 # -> Not Equals                 !=
