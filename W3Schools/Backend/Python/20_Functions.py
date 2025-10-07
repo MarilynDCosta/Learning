@@ -1,5 +1,5 @@
 # W3Schools - Python
-# Section 18: Functions
+# Section 20: Functions
 
 
 # Functions are blocks of code that run only when they are called.
@@ -138,3 +138,4 @@ def fibonacci(number):
         return fibonacci(number-1) + fibonacci(number-2)
     
 print(fibonacci(6))
+

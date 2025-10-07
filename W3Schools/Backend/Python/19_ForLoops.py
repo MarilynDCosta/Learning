@@ -1,5 +1,5 @@
 # W3Schools - Python
-# Section 18: For Loops
+# Section 19: For Loops
 
 
 # For loops are used for iterating over a sequence, i.e.: list, tuples, dictionaries and sets.
